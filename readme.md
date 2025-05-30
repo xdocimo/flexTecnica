@@ -1,6 +1,6 @@
 # API Articulos Prueba Técinca.
 Puedes acceder a la documentación de Swinger de esta API en:
-https://flextecnica.websoon.com.ar/api/documentacion
+https://flextecnica.websoon.com.ar/api/documentacion/ui
 
 -----
 
@@ -29,4 +29,4 @@ Todas las rutas (excepto la documentación) requieren el header `x-api-key`
 * `GET /api/articulos/{id}` - Obtener artículo por ID
 * `PUT /api/articulos/{id}` - Actualizar artículo
 * `DELETE /api/articulos/{id}` - Desactivar artículo 
-Ejemplos y demás en https://flextecnica.websoon.com.ar/api/documentacion
+Ejemplos y demás en https://flextecnica.websoon.com.ar/api/documentacion/ui
